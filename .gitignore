@@ -9,3 +9,5 @@ build*/
 debian/tmp/
 debian/files
 .directory
+test_data
+.test_data
